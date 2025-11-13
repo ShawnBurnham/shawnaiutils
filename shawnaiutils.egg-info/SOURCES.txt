@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+shawnaiutils/Custom Callback.py
+shawnaiutils.egg-info/PKG-INFO
+shawnaiutils.egg-info/SOURCES.txt
+shawnaiutils.egg-info/dependency_links.txt
+shawnaiutils.egg-info/requires.txt
+shawnaiutils.egg-info/top_level.txt
