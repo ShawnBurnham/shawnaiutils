@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "shawnaiutils"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shawn's personal ML utility package"
 authors = [{ name = "Shawn Burnham", email = "swb0027@auburn.edu" }]
 license = { text = "MIT" }
